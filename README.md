@@ -1,7 +1,6 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/xUPGcMpoxSZdiLTv7q/giphy-downsized-large.gif" width="200" />
     <h1 align="center">### Hi there 👋</h1>
-    <h3 align="center"></h3>
 </div>
 
 <!--
