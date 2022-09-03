@@ -15,7 +15,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>
       </div>
 </div>
-<div id="header" align="center">
-     <h1 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nerontronik&theme=dark&hide_border=true)](https://git.io/streak-stats)</h1>
-</div>
 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nerontronik&theme=dark&hide_border=true)](https://git.io/streak-stats)
