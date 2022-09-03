@@ -15,8 +15,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>
       </div>
 </div>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nerontronik&theme=dark&hide_border=falso&locale=es&borde=DD2727&antecedentes=DD2727)](https://git.io/streak-stats)
-
 <!--
 **Nerontronik/Nerontronik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
